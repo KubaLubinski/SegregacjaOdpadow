@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SegregacjaOdpadow</string>
+    <string name="tvClassifiedAs">Sklasyfikowano jako:</string>
+    <string name="confidenceTextValue">Wartość poszczególnych kategorii:</string>
+    <string name="btnText">Zrób zdjęcie</string>
+</resources>
